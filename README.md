@@ -40,6 +40,6 @@ Algumas tecnologias/linguagens que trabalho
  
  📫 Entra em contato comigo ;)
 <div>
-<a href="https://linkme.bio/claudiooliveirajr">Linkme 😎✌️ </a>
+<a href="https://linkme.bio/claudiooliveirajr" target="_blank">Linkme 😎✌️ </a>
 </div>
 
